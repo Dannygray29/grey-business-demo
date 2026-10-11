@@ -119,7 +119,7 @@ Submitted through the Grey website.
 `;
 
     const mailto =
-      `mailto:bigdannygrey@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      `mailto:Grey.contact@yahoo.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
     window.location.href = mailto;
   });
